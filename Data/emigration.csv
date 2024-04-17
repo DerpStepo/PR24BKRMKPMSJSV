@@ -19,7 +19,7 @@ Hungary,67364,67999,58408
 Malta,12679,13509,13166
 Netherlands,102502,110342,109616
 Austria,62581,67299,74271
-Poland,161666s,201595,228006
+Poland,161666,201595,228006
 Portugal,25886,25079,30954
 Romania,186818,216861,202311
 Slovenia,17745,21144,20956
@@ -30,14 +30,14 @@ Iceland,6009,4661,5091
 Liechtenstein,432,516,480
 Norway,21447,34297,32536
 Switzerland,109376,116769,122123
-United Kingdom,:,:,:
-Montenegro,28,:,:
-Moldova,:,:,:
-North Macedonia,1082,1412,:
-Albania,:,:,:
-Serbia,:,:,:
-Türkiye,:,:,:
-Ukraine,19121,22587,:
-Belarus,:,:,:
-Russia,:,:,:
-San Marino,:,:,:
+United Kingdom,0,0,0
+Montenegro,28,0,0
+Moldova,0,0,0
+North Macedonia,1082,1412,0
+Albania,0,0,0
+Serbia,0,0,0
+Türkiye,0,0,0
+Ukraine,19121,22587,0
+Belarus,0,0,0
+Russia,0,0,0
+San Marino,0,0,0
