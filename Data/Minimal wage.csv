@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 country,2022/S1,2022/S2,2023/S1,2023/S2,2024
 Belgium,1658.23,1842.28,1955.04,1955.04,1994.18	
 Bulgaria,332.34,363.02,398.81,398.81,477.04	
@@ -36,3 +37,43 @@ North Macedonia,0,0,0,0,0
 Albania,248.43,268.61,297.65,375.80,385.06	
 Serbia,401.36,401.97,460.21,460.57,543.64	
 Türkiye,328.49,373.57,501.28,473.69,612.58	
+=======
+country,2024
+Belgium,"1994.18	"
+Bulgaria,"477.04	"
+Czechia,"764.44	"
+Denmark,2259.37 H
+Germany,"2054.00	"
+Estonia,"820.00	"
+Ireland,"2146.30	"
+Greece,"910.00	"
+Spain,"1323.00	"
+France,"1766.92	"
+Croatia,"840.00	"
+Italy,1457.47 H
+Cyprus,"1000.00	"
+Latvia,"700.00	"
+Lithuania,"924.00	"
+Luxembourg,"2570.93	"
+Hungary,"696.97	"
+Malta,"925.34	"
+Netherlands,"2070.12	"
+Austria,1766.92 H
+Poland,"977.53	"
+Portugal,"956.67	"
+Romania,"663.24	"
+Slovenia,"1253.90	"
+Slovakia,"750.00	"
+Finland,1274.4 H
+Sweden,1809.01 H
+Iceland,2262.8 H
+Liechtenstein,1321.6 H
+Norway,1975.2 H
+Switzerland,3242.3 H
+United Kingdom,2017.9 H
+Montenegro,"532.54	"
+North Macedonia,360
+Albania,"385.06	"
+Serbia,"543.64	"
+Türkiye,"612.58	"
+>>>>>>> a7a289a61a77fa1ea637f76bcbbd76b2ecd10044
